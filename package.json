@@ -1,0 +1,22 @@
+{
+  "name": "sws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Classic106/sws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Classic106/sws/issues"
+  },
+  "homepage": "https://github.com/Classic106/sws#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
